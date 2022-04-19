@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SayHelloLibPod_Example' do
+  pod 'SayHelloLibPod', :path => '../'
+
+  target 'SayHelloLibPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
