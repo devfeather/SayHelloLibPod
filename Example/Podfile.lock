@@ -1,0 +1,16 @@
+PODS:
+  - SayHelloLibPod (0.1.0)
+
+DEPENDENCIES:
+  - SayHelloLibPod (from `../`)
+
+EXTERNAL SOURCES:
+  SayHelloLibPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SayHelloLibPod: 6c764882b9a11a4f2de0111fa257de3eb9e5a4b5
+
+PODFILE CHECKSUM: bc3eff221916c2e51f60ed14f6d213c29b7ffdcc
+
+COCOAPODS: 1.11.2

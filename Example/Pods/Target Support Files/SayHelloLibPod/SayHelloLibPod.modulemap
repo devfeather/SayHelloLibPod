@@ -1,0 +1,6 @@
+framework module SayHelloLibPod {
+  umbrella header "SayHelloLibPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
